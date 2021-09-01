@@ -1,5 +1,5 @@
 // We create the tile layer that will be the background of our map.
-console.log("Step 1 working");
+console.log("Leaflet- Step 1 working");
 
 var graymap = L.tileLayer(
   "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}",
